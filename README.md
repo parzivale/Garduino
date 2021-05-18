@@ -10,5 +10,4 @@ An arduino based garden Automation Tool
 
 `/Showcase` contains showcase material
 
-`/M
-isc` contains all misc files
+`/Misc` contains all misc files
