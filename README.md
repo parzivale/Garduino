@@ -12,5 +12,5 @@ An arduino based garden Automation Tool
 
 `/Misc` contains all misc files
 
-#Padlet
+# Padlet
 https://padlet.com/13lisuardi/xni7x2u9axq2w6m1
