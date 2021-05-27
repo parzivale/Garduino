@@ -11,6 +11,3 @@ An arduino based garden Automation Tool
 1. `/Showcase` contains showcase material
 
 1. `/Misc` contains all misc files
-
-# Padlet
-https://padlet.com/13lisuardi/xni7x2u9axq2w6m1
