@@ -8,7 +8,3 @@
 |Write code for sensors      |Write code for the automatic irrigation|Draw conclusions based on plots|            |Show graphs on screen     |
 |                            |Status information                     |                               |            |                          |
 |1                           |4                                      |3                              |2           |5                         |
-
-# Padlet
-
-https://padlet.com/13lisuardi/xni7x2u9axq2w6m1
